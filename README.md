@@ -3,11 +3,6 @@
   <a href="https://tour-project-blond-iota.vercel.app/" target="_blank">Live Demo</a>
 </h2>
 
-<div align="center">
-  <img alt="Demo" src="./images/back.jpg" />
-</div>
-
-# Tour-Project
 <b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
 [Enhancement: Add A Section For Contributors on The Home Page ](https://github.com/Tarunyadav0001/Tour-Project/issues/10) <br>
 [Enhancement: Separate Pages For Popular Packages ](https://github.com/Tarunyadav0001/Tour-Project/issues/9) <br><br>
